@@ -1,0 +1,1 @@
+Koriscenjem programskog jezika C napisati Linux program koji kao ulazne argumente prihvata apsolutnu putanju do nekog direktorijuma i parametre n i m. Program ima zadatak da u zadatom direktorijumu iz n prvih regularnih datoteka odstampa m linija sa pocetka datoteke (pretpostaviti da je maksimalna duzina linije u datoteci 100 karaktera).
