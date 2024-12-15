@@ -1,5 +1,3 @@
-/*1. Korišćenjem programskog jezika C napisati Linux program koji kreira dodatni proces dete. Roditelj generiše slučajne brojeve u opsegu od 0 do 999 i korišćenjem reda poruka šalje procesu detetu.  Brojevi se šalju sa pridruženim prioritetom pri čemu jednocifreni brojevi imaju prioritet 1, dvocifreni  prioritet 2, a trocifreni prioritet 3. Proces dete sumira primljene brojeve u tri različite sume (za svaki  prioritet zasebna suma) tako što sumiranje imaju brojevi prioriteta 1, zatim brojevi prioriteta 2 a tek  na kraju brojevi prioriteta 3. Proces dete sumiranje prekida kada zbir sve tri sume pređe vrednost  50000. O prekidu sumiranja proces dete korišćenjem istog reda poruka obaveštava proces roditelj  kako bi prekinuo generisanje brojeva. (25 poena) */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
