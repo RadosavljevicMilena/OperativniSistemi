@@ -1,1 +1,5 @@
-Koriscenjem programskog jezika C napisati Linux program koji uporedjuje sadrzaj dva direktorijuma. Putanje do direktorijuma koji se uporedjuju se zadaju kao ulazni argumenti programa. Program za svaku regularnu datoteku iz prvog direktorijuma proverava da li postoji odgovarajuca datoteka u drugom direktorijumu (uporedjuje ime i velicinu datoteke). Ukoliko datoteka postoji, stampa se ime datoteke. Napomena: Pretpostaviti da prvi direktorijum ne sadrzi poddirektorijume
+Koriscenjem programskog jezika C napisati Linux program koji uporedjuje sadrzaj dva direktorijuma. 
+Putanje do direktorijuma koji se uporedjuju se zadaju kao ulazni argumenti programa. Program za svaku
+regularnu datoteku iz prvog direktorijuma proverava da li postoji odgovarajuca datoteka u drugom direktorijumu 
+(uporedjuje ime i velicinu datoteke). Ukoliko datoteka postoji, stampa se ime datoteke. Napomena: Pretpostaviti
+da prvi direktorijum ne sadrzi poddirektorijume
