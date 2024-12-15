@@ -1,1 +1,3 @@
-Koriscenjem programskog jezika C napisati Linux program koji kreira dodatni proces dete. Ova dva procesa komuniciraju koriscenjem jednog reda poruke. Prvi proces sa tastature cita cele visecifrene brojeve i salje ih drugom procesu koriscenjem reda poruka. Drugi proces treba da sabere cifre primljenog broja i da ih odstampa na standardnom izlazu. Ovaj postupak se ponavlja 10 puta
+Koriscenjem programskog jezika C napisati Linux program koji kreira dodatni proces dete. Ova dva procesa komuniciraju koriscenjem
+jednog reda poruke. Prvi proces sa tastature cita cele visecifrene brojeve i salje ih drugom procesu koriscenjem reda poruka. Drugi
+proces treba da sabere cifre primljenog broja i da ih odstampa na standardnom izlazu. Ovaj postupak se ponavlja 10 puta
