@@ -1,1 +1,0 @@
-Koriscenjem programskog jezika C napisati Linux program koji u zadatom direktorijumu (kao ulazni argument programa zadaje se apsolutna putanja do direktorijuma) i rekurzivno u njegovim poddirektorijumima odredjuje i stampa imena svih regularnih datoteka koje su vece od 100KB tako da je dobijeni spisak sortiran po velicini datoteke u rastucem redosledu.
