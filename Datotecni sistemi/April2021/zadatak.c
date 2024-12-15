@@ -39,13 +39,10 @@ void rekurzija(char* putanja)
         strcat(path, dir->d_name);
         
         stat(path, &statbuf);
-        
-        if(S_ISREG(statbuf.st_mode) && statbuf.st_size > 25)
+
+        if(S_ISREG(statbuf.st_mode) && statbuf.st_size > 102400)
         {
             size[i] = statbuf.st_size;
-            
-            //strcpy(name[i], dir->d_name);
-            //MORA OVAKO!!!!
             name[i] = strdup(dir->d_name);
             i++;
         }
