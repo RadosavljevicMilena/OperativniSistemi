@@ -1,1 +1,3 @@
-Koriscenjem programskog jezika C napisati Linux program koji u zadatom direktorijumu rekurzivno (i maksimalno do dubine 3) brise sve regularne datoteke koje u imenu sadrze podsting "log" i vece su od 15KB. Za brisanje datoteke koristiti rm komandu linux operativnog sistema.
+Koriscenjem programskog jezika C napisati Linux program koji u zadatom direktorijumu rekurzivno (i maksimalno do dubine 3)
+brise sve regularne datoteke koje u imenu sadrze podsting "log" i vece su od 15KB. Za brisanje datoteke koristiti rm komandu
+linux operativnog sistema.
