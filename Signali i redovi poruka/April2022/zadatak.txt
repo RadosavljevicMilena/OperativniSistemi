@@ -1,1 +1,5 @@
-Koriscenjem programskog jezika C napisati Linux program koji simulira problem proizvodjac/potrosac koriscenjem redova poruka. Glavni program se deli u dva procesa. Prvi proces (proizvodjac) kreira N slucajnih pozitivnih celih brojeva i salje ih drugom procesu. N se odredjuje tokom izvrsenja, takodje kao slucajan pozitivan ceo broj. Po zavrsetku slanja, prvi proces salje -1 kao kod za kraj. Drugi proces (potrosac) preuzima poslate brojee iz poruka i stampa ih na standardnom izlazu. Nakon sto primi broj -1 proces stampa koliko je dobio parnih a koliko neparnih brojeva.
+Koriscenjem programskog jezika C napisati Linux program koji simulira problem proizvodjac/potrosac koriscenjem redova poruka. Glavni 
+program se deli u dva procesa. Prvi proces (proizvodjac) kreira N slucajnih pozitivnih celih brojeva i salje ih drugom procesu. N se 
+odredjuje tokom izvrsenja, takodje kao slucajan pozitivan ceo broj. Po zavrsetku slanja, prvi proces salje -1 kao kod za kraj. Drugi 
+proces (potrosac) preuzima poslate brojee iz poruka i stampa ih na standardnom izlazu. Nakon sto primi broj -1 proces stampa koliko je 
+dobio parnih a koliko neparnih brojeva.
