@@ -1,1 +1,0 @@
-Koriscenjem programskog jezika C napisati Linux program koji u zadatom direktorrijumu (kao ulazni argument programa zadaje se apsolutna putanja do direktorijuma) i njegovim poddirektorijumima (mkasimalno do nivoa 5) odredjuje i stampa naziv najvece regularne datoteke.
