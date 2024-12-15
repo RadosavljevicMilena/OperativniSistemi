@@ -1,1 +1,3 @@
-Korišćenjem programskog jezika C napisati Linux program koji za tekućei direktorijum generiše  statistiku tako što prebrojava: podfoldere, linkove, prazne regularne datoteke i regularne datoteke čija  je veličina veća od 0B. Na kraju program na ekranu štampa ovu statistiku (brojeve stavki po tipu).
+Korišćenjem programskog jezika C napisati Linux program koji za tekućei direktorijum generiše  statistiku 
+tako što prebrojava: podfoldere, linkove, prazne regularne datoteke i regularne datoteke čija  je veličina 
+veća od 0B. Na kraju program na ekranu štampa ovu statistiku (brojeve stavki po tipu).
