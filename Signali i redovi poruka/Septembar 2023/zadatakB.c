@@ -35,7 +35,6 @@ int main()
         
         if(bafer.type == 1)
         {
-            //u mala
             for(int i = 0; i<strlen(procitano); i++)
             {
                 konvertovana[i] = toupper(procitano[i]);
@@ -43,7 +42,6 @@ int main()
         }
         else if(bafer.type == 2)
         {
-            //u velika
             for(int i = 0; i<strlen(procitano); i++)
             {
                 konvertovana[i] = tolower(procitano[i]);
